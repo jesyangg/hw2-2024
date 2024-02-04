@@ -73,7 +73,7 @@ img {
 h1{
     font-size: 42px;
     text-align: center;
-    padding: 15;
+    padding: 15px;
 }
 
 h2{
@@ -116,7 +116,7 @@ border: 0px;
 }
 
 .yellow {
-    background-color: #fff000;
+    background-color: #ffff00;
     color: #707070;
     text-align: right;
     margin-left: 50px;
